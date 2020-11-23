@@ -48,3 +48,5 @@ while tries > 0:
     
 print("Χάσατε!")
 print(f"Η λέξη ήταν: {word}")
+
+## This is an example change
